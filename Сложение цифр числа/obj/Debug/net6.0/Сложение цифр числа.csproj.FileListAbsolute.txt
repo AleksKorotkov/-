@@ -1,0 +1,15 @@
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\Сложение цифр числа.csproj.AssemblyReference.cache
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\Сложение цифр числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\Сложение цифр числа.AssemblyInfoInputs.cache
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\Сложение цифр числа.AssemblyInfo.cs
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\Сложение цифр числа.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\bin\Debug\net6.0\Сложение цифр числа.exe
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\bin\Debug\net6.0\Сложение цифр числа.deps.json
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\bin\Debug\net6.0\Сложение цифр числа.runtimeconfig.json
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\bin\Debug\net6.0\Сложение цифр числа.dll
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\bin\Debug\net6.0\Сложение цифр числа.pdb
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\Сложение цифр числа.dll
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\refint\Сложение цифр числа.dll
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\Сложение цифр числа.pdb
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\Сложение цифр числа.genruntimeconfig.cache
+C:\Users\Ученик\source\repos\Сложение цифр числа\Сложение цифр числа\obj\Debug\net6.0\ref\Сложение цифр числа.dll
